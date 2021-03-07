@@ -1,4 +1,4 @@
-### Pyspark - Data Engineering common task showcase
+### Pyspark - Data Engineering common tasks showcase
 
 In this project you will find some `pyspark` notebooks performing simple tasks.
 
